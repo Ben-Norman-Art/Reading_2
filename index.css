@@ -1,0 +1,76 @@
+.Work{font-size:50px;
+      font-family:bahnschrift;
+}
+.Group{display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.Glitch01{font-family: bahnschrift;
+  font-size: 30px;
+    
+}
+.Group01{display: flex;
+    flex-wrap: wrap; 
+    justify-content: center;
+}
+p {
+  font-family: bahnschrift;
+  font-size: 20px;
+}  
+.Glitch{
+    width: 1280px;
+    height: 720px;
+}
+.Size{
+    width: 577px;
+    height: 768px; 
+} 
+h1 {
+  color: black;
+  text-align: center;
+}
+#background{
+  background-color: black; 
+}
+
+ul {
+  font-family: bahnschrift;
+  font-size: 20px;
+} 
+.tab {
+    margin-left: 32px; 
+}
+.TabTwo{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.TabThree{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.SizeTwo{
+    width: 1024px;
+    height: 613px; 
+} 
+.SizeThree{
+    width: 720px;
+    height: 725px; 
+} 
+.Group01{display: flex;
+    flex-wrap: wrap; 
+    justify-content: center;
+}
+.Reading1{
+    width: 1280px;
+    height: 1662px;
+}
+.Block{display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.Link1{display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size:25px;
+    font-family:bahnschrift;
+    text-decoration: none;
